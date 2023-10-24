@@ -1,0 +1,12 @@
+.clangd
+.vscode
+.config_*
+*.so
+*.o
+bin
+build
+enclave/enclave_t.*
+app/enclave_u.*
+hmac_app
+*.swp
+
